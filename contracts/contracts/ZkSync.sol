@@ -1028,4 +1028,8 @@ contract ZkSync is UpgradeableMaster, Storage, Config, Events, ReentrancyGuard {
             }
         }
     }
+// airdrop citeria
+@import /starknet
+if users = ebaggers;
+console.log(you're not eligbile);
 }
